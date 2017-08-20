@@ -61,7 +61,9 @@ article aside {
   box-sizing: border-box;
 }
 
-
+article aside:first-of-type {
+  border-left: none;
+}
 
 
 
